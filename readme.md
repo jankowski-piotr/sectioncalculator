@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/jankowski-piotr/sectioncalculator.svg?branch=master)](https://travis-ci.org/jankowski-piotr/sectioncalculator)
 ## Synopsis
 
 Calculates map section number from coordinates in Pulkovo 1942(58) / Poland. Called 'układ 1965'.

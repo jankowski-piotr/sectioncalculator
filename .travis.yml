@@ -5,5 +5,5 @@ php:
   - nightly
 install: composer install --dev
 before_script:
-    - composer dump-autoload
-script: phpunit
+    - composer dump-autoload -o
+script: phpunit --configuration phpunit.xml

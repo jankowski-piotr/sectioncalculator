@@ -4,4 +4,4 @@ php:
   - 7.0
   - nightly
 install: composer install --dev
-script: phpunit test
+script: phpunit

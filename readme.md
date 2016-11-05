@@ -40,7 +40,7 @@ Feel free to fork and submit changes.
 
 Run with composer autoloader.
 
-	phpunit --bootstrap ../../../autoload.php SectionCalculatorTest.php
+	phpunit
 
 ## License
 

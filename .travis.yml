@@ -4,4 +4,6 @@ php:
   - 7.0
   - nightly
 install: composer install --dev
+before_script:
+    - composer dump-autoload
 script: phpunit

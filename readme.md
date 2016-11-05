@@ -14,7 +14,7 @@ Based on:
 	// Use a PSR-4 autoloader.
 	include("vendor/autoload.php");
 
-	use SectionCalculator\SectionCalculator;
+	use Section1965\SectionCalculator\SectionCalculator;
 
 	$point = new SectionCalculator(5585782.900,4527912.960);
 	$point->setProjection('EPSG:3120'); // zone 1
@@ -33,7 +33,7 @@ Feel free to fork and submit changes.
 ## Installation via Composer
 	{
     		"require": {
-        			"section1965/sectioncalculator": "1.0.*"
+        			"section1965/sectioncalculator": "dev-master"
    		 }
 	}
 

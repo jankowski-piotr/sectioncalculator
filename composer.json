@@ -13,10 +13,10 @@
     },
     "autoload": {
         "psr-4": {
-            "Section1965\\SectionCalculator\\": "src/"
+            "Section1965\\": "src/Section1965"
         }
     },
     "autoload-dev": {
-        "psr-4": { "Section1965\\SectionCalculatorTest\\": "tests/" }
+        "psr-4": { "Section1965Test\\": "tests/Section1965Test" }
     }
 }

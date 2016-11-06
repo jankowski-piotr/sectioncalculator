@@ -1,5 +1,5 @@
 <?php
-namespace Section1965\SectionCalculator;
+namespace Section1965;
 /**
 * Calculates map section number from coordinates in Pulkovo 1942(58) / Poland.
 *

@@ -1,7 +1,7 @@
 <?php
-namespace Section1965\SectionCalculatorTest;
+namespace Section1965Test;
 use PHPUnit\Framework\TestCase;
-use Section1965\SectionCalculator\SectionCalculator;
+use Section1965\SectionCalculator;
 
 
 class SectionCalculatorTest extends TestCase
